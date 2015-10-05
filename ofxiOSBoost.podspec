@@ -8,7 +8,7 @@ Boost is the library that can (and should) be used to ease c++ development.
   s.homepage     = "http://www.boost.org"
   s.license      = 'Boost'
   s.author       = { "Danoli3" => "danoli3@gmail.com" }
-  s.source       = { :git => "https://github.com/normalcoder/ofxiOSBoost.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/normalcoder/ofxiOSBoost.git", :tag => "1.58.0-libc++-simulator-fixed" }
 
   s.platform     = :ios, '8.0'
   s.ios.deployment_target = '8.0'
